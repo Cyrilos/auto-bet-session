@@ -39,7 +39,7 @@ async function playDice() {
 playDice();
 
 ```
-
+![Output](screenshot/example.png)
 ## Fundamental methods for gambling strategy
 ```js
 // increase the current bet amount by the percentage
