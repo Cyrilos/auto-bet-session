@@ -1,0 +1,30 @@
+{
+  "name": "auto-bet-session",
+  "version": "1.0.0",
+  "description": "Package providing class for autobetting on gambling platform like (*king.io and *pick.io). There are useful methods for applying easily and programmatically any kind of strategy.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrilos/auto-bet-session.git"
+  },
+  "keywords": [
+    "gambling",
+    "auto",
+    "bet"
+  ],
+  "author": "Faniriniaiko Cyrilos (mampisandryfaniriniaikoc@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrilos/auto-bet-session/issues"
+  },
+  "homepage": "https://github.com/cyrilos/auto-bet-session#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
