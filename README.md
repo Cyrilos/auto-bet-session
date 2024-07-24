@@ -4,7 +4,7 @@ Package providing class for autobetting on gambling platform like (*king.io and 
 ## Quick usage example
 Applying Martingale bet strategy
 ```js
-const BetSession = require("./BetSession.js");
+const BetSession = require("auto-bet-session");
 
 const PLATFORM = "dogepick.io";
 const COOKIES = "<your dogepick cookies>";
