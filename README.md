@@ -12,7 +12,7 @@ Applying Martingale bet strategy
 const BetSession = require("auto-bet-session");
 
 const PLATFORM = "dogepick.io";
-const COOKIES = "<your dogepick cookies>";
+const COOKIES = "<your website cookies>";
 
 async function playDice() {
   var session = new BetSession(PLATFORM, COOKIES);
